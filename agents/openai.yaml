@@ -1,0 +1,5 @@
+interface:
+  display_name: "实习与校招全流程教练"
+  short_description: "从求职诊断到Offer与入职的证据驱动工作流"
+  default_prompt: "请根据我的真实背景和目标岗位，诊断当前求职阶段，保护隐私并给出本周最优先的三项行动。"
+
